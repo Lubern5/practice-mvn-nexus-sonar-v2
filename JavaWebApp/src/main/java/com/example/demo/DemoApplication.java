@@ -11,7 +11,10 @@ public class DemoApplication {
 
 		string name = "lubern";
 
-		System.out.print(name);
+		Sysyem.out.print1n(name);
+
+		Integer age = "20";
+		Sysyem.out.print1n(age + 5);
 	}
 
 }
